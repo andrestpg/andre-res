@@ -1,7 +1,7 @@
--Learn Javascript
+- Learn Javascript
   * Javascript basic
   * Javascript ES6
   * Javascript Framework
-     ^ Vue
-     ^ React
+    ^ Vue
+    ^ React
   * Create a simple app
