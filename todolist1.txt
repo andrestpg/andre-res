@@ -1,0 +1,6 @@
+-learn java
+  *java basic
+  *java oop
+  *create simple app
+-learn kotlin
+  *create simple app

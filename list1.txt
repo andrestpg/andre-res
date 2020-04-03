@@ -1,4 +1,0 @@
-learn java
-create simple app
-learn kotlin
-create simple app
