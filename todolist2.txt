@@ -1,4 +1,7 @@
--learn Javascript
-  *learn ES6
-  *learn react
-  *create a simple react app
+- Learn Javascript
+  * Javascript basic
+  * Javascript ES6
+  * Javascript Framework
+    ^ Angular
+    ^ React
+  * Create a simple app
