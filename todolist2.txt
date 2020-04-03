@@ -2,6 +2,6 @@
   * Javascript basic
   * Javascript ES6
   * Javascript Framework
-    ^ Angular
+    ^ Vue
     ^ React
   * Create a simple app
